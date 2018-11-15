@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ViewController1.cs](./CS/WinSolution.Module.Win/ViewController1.cs) (VB: [ViewController1.vb](./VB/WinSolution.Module.Win/ViewController1.vb))
+* [NonPersistentObject.cs](./CS/WinSolution.Module/NonPersistentObject.cs) (VB: [NonPersistentObject.vb](./VB/WinSolution.Module/NonPersistentObject.vb))
+<!-- default file list end -->
 # OBSOLETE - How to prevent a popup window from closing
 
 
